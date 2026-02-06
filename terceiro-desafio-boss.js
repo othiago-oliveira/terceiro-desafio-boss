@@ -23,13 +23,10 @@ class heroi{
 }
 
 let h1 = new heroi("Lee", 25, "ninja")
-h1.atacar()
-
+	h1.atacar()
 let h2 = new heroi("San", 25, "mago")
-h2.atacar()
-
+	h2.atacar()
 let h3 = new heroi("Goku", 25, "guerreiro")
-h3.atacar()
-
+	h3.atacar()
 let h4 = new heroi("Bob Esonja", 25, "monge")
-h4.atacar()
+	h4.atacar()
